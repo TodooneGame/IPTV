@@ -6,3 +6,6 @@ https://github.com/ngo5/IPTV
 
 big-mouth-cn
 https://github.com/big-mouth-cn/tv/blob/main/iptv.m3u
+
+extinside
+https://github.com/extinside/IPTV/blob/main/live.m3u
